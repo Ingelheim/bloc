@@ -72,16 +72,11 @@ I would be happy to give you live examples of this during our first appointment,
 
 ## Foundations Overview
 
-This may not make much sense if your roadmap hasn’t unlocked yet, but I like to provide a quick high-level overview to help contextualize related checkpoints.
-
-1. **Checkpoints 1 – 12:** Ruby basics - those are Ruby language specific checkpoints that will help you familiarize yourself a bit more with Ruby and it's syntax.
-2. **Checkpoints 13 – 17:** Developer Tools - will help you to setup your development environment and introduces you to tools, you'll constantly use on a daily basis.
-3. **Checkpoints 18 – 23:** Address bloc - build a command line based address book.
-4. **Checkpoints 24 – 49:** Bloccit - Build a Ruby on Rails based app that behaves like Reddit.
+This may not make much sense if your roadmap hasn’t unlocked yet. Let's talk what is ahead the comings months and especially the coming weeks in our first meeting.
 
 ## Projects
 
-We will worry about this more as we get closer to completing Foundations. Projects are pretty much real applications where you will work on your Rails skills through learning by doing. You will have a lot of fun and also learn a lot while doing so.
+We will worry about this more as we get closer to completing Foundations. Projects are pretty much real applications where you will work on your Rails and front-end skills through learning by doing. You will have a lot of fun and also learn a lot while doing so.
 
 ## That’s it! :thumbsup:
 
